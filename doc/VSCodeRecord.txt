@@ -1,0 +1,38 @@
+VsCode 软件使用记录
+
+
+VsCode 快捷键
+mac os:
+1. 对于窗口的操作：
+    Command + +/- : 放大/缩小Vscode，类似放大镜
+    Ctrl + ` : 隐藏/展示 Termianl窗口
+    Command + B : 隐藏/展示 侧边栏
+
+Ctrl + - : 返回上一个光标
+Shift + Option + F : 格式化代码
+F1 或 Ctrl + Shift + P（俗称万能键）  ：打开命令面板。
+Command + Shift + K : 删除当前行
+Command + Shift + F : 全局搜索
+Ctrl + P ：跳转到具体的行
+Command + P : 打开最近打开的文件列表，并且可以搜索
+Ctrl + Tab : 文件之间切换 
+Alt + Up 或 Alt + Down : 向上或向下移动一行:   
+Shift + Alt + Up 或 Shift + Alt + Down : 向上或向下复制一行
+
+
+windows:
+
+
+安装的插件：
+    
+1. JSON Tools
+Ctrl(Cmd)+Alt+M for JSON pretty.
+
+VsCode 设置：
+
+1. VsCode可以新建工作区，工作区可以配置加载不同插件，并且工作区可以打开多个项目，实现一个窗口中项目多开
+
+
+
+
+
