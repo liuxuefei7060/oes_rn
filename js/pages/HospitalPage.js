@@ -1,3 +1,4 @@
+
 import React from 'react';
 import {
     StyleSheet,
@@ -9,9 +10,9 @@ import {
 
 
 /**
- * 登录
+ * 医院权限控制台
  */
-export default class LoginPage extends React.Component {
+export default class HospitalPage extends React.Component {
 
     render() {
         const {navigation} = this.props;
@@ -23,12 +24,8 @@ export default class LoginPage extends React.Component {
         }}>
 
         <View style={{backgroundColor:'gray'}}>
-            <Text style={styles.showText}>LoginPage</Text>
+            <Text style={styles.showText}>医院权限控制台</Text>
             </View>
-            <Button title="登录" onPress={()=>{
-
-                navigation.navigate("HomeBottomNavigator");
-            }}/>
         </View>)
     }
 
